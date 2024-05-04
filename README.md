@@ -1,1 +1,1 @@
-Firt notes-app for practice
+First notes-app for practice
