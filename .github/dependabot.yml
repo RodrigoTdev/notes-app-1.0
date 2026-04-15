@@ -1,11 +1,10 @@
+version: 2
 updates:
-  # Configuración para el Frontend
   - package-ecosystem: "npm"
     directory: "/frontend"
     schedule:
       interval: "weekly"
 
-  # Configuración para el Backend
   - package-ecosystem: "npm"
     directory: "/backend"
     schedule:
